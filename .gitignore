@@ -1,0 +1,14 @@
+dist
+node_modules
+.env
+.idea
+.vscode
+coverage
+test-report.xml
+.scannerwork
+.DS_Store
+.env.example
+.env.test
+env/local/env.json
+*.log
+utils/config.js
